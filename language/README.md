@@ -51,3 +51,7 @@ Libra Core components interact with the language component through the VM. Speci
     └── vm_runtime     # The bytecode interpreter
 ```
 
+#Libra Currency should be available in all languages
+#Move Language will implement all Human languages
+#Libra website and application will be available in all Human Languages
+#We need Libra, We need Language
